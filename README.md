@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Re007mO
 - 👀 I’m interested in painting🎨&Web development👩‍💻
 - 🌱 I’m currently learning Javascript and nodejs
-- 💞️ I’m looking to collaborate ..
+- 💞️ I’m looking to collaborate on
+- huge web page
 - 📫 How to reach me: at my Gmail
 - 😄 Pronouns: Remo
 - ⚡ Fun fact: young developer🐱‍👓
